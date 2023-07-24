@@ -1,6 +1,6 @@
 import img from "../../assets/img/bg-card-front.png";
 import cardLogo from "../../assets/img/card-logo.svg";
-import { CardImg, CardInfo, ContainerImg, FrontCardContainer, Info, Name } from "./style";
+import { CardImg, CardInfo, ContainerImg, FrontCardContainer, Info, Name, Number } from "./style";
 
 type FrontCardProps = {
    value?: {
